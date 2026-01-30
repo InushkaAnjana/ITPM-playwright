@@ -4,7 +4,7 @@ const cases = [
   {
     id: "Pos_Fun_0101",
     name: "command - issarahata yanna",
-    input: "issarahata yanna",
+    input: "issarahata yann",
     expected: "ඉස්සරහට යන්න",
   },
   
